@@ -148,7 +148,7 @@ Docker (10 containers)          ← Full local infrastructure
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/mhmd-ebrahim-1/financial-market-pipeline.git
+git clone https://github.com/shahet07/financial-market-pipeline.git
 cd financial-market-pipeline
 ```
 
