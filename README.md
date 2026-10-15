@@ -264,9 +264,3 @@ docker cp processing/spark_transform.py spark-master:/opt/spark_transform.py
 ```
 
 ---
-
-
-
-## Source and license
-
-Imported from [mhmd-ebrahim-1/financial-market-pipeline](https://github.com/mhmd-ebrahim-1/financial-market-pipeline). Original project copyright © 2026 Mohamed Ebrahim. The original MIT license is preserved in [LICENSE](LICENSE). This repository starts with a fresh import history.
